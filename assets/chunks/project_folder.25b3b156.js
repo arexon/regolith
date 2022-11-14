@@ -1,1 +1,1 @@
-const s="/assets/project_folder.7903978f.png";export{s as _};
+const o="/regolith/assets/project_folder.7903978f.png";export{o as _};
